@@ -9,6 +9,6 @@ entries:
     name: midc-chart
     type: application
     urls:
-    - https://github.com/SwensaGH/SwensaHelmCharts/midc-chart-0.1.0.tgz
+    - https://github.com/SwensaGH/SwensaHelmCharts/midc-chart-0.1.1.tgz
     version: 0.1.0
 generated: "2022-06-23T22:16:44.6477181-05:00"
