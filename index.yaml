@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  midc-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-23T22:16:44.6584495-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 774b265a5da558b082bb9ad3d750a62fed312e880061224d837b04dc68430def
+    name: midc-chart
+    type: application
+    urls:
+    - https://github.com/SwensaGH/SwensaHelmCharts/midc-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-23T22:16:44.6477181-05:00"
